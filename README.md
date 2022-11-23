@@ -1,5 +1,7 @@
 ### Hi, I'm Artem Ponamarchuk
 
+<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400">
+
 ```javascript
 const Artem = juniorFrontEnd
 
@@ -14,7 +16,6 @@ export default class Skills {
   }
 }
 ```
-<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400">
 
 <!--
 **Panfil0k/Panfil0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
