@@ -1,5 +1,4 @@
-<img src="https://i.gifer.com/TPP.gif" width="100">
-<h2>Hi, I'm Artem Ponamarchuk</h2>
+<h2>Hi, I'm Artem Ponamarchuk <img src="https://66.media.tumblr.com/598227a61e3cc5d53c5e35e3ccd100ac/tumblr_mjoko81kiY1rfjowdo1_500.gif" width="60"></h2>
 
 ```javascript
 const Artem = juniorFrontEnd
