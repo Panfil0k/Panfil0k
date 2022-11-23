@@ -1,5 +1,34 @@
 ### Hi there 👋
 
+```javascript
+const ArtemPonamarchuk = juniorFrontEnd
+
+export default class Skills {
+  constructor({ skills }) {
+    this._HTML = skills.HTML;
+    this._CSS = skills.CSS;
+    this._JavaScript = skills.JavaScript;
+    this._React = skills.React;
+    this._Express = skills.Express;
+    this._Mongo = skills.Mongo;
+  }
+}
+
+
+{
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <!--
 **Panfil0k/Panfil0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
