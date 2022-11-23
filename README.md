@@ -1,6 +1,6 @@
 ### Hi, I'm Artem Ponamarchuk
 
-<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500">
+<img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="490">
 
 ```javascript
 const Artem = juniorFrontEnd
