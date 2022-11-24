@@ -1,5 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Artem Ponamarchuk" />
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<p>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</p>
+<p>![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)</p>
 
 ```javascript
 const Artem = juniorFrontEnd
