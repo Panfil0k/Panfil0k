@@ -14,7 +14,6 @@ export default class Skills {
   }
 }
 ```
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panfil0k)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Panfil0k/Panfil0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
