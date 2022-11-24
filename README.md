@@ -6,3 +6,4 @@
 <a href="https://t.me/Panfilok" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://practicum-students.slack.com/team/U03A3HDQSAK"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panfil0k&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panfil0k&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
