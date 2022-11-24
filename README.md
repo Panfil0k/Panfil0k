@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Artem Ponamarchuk" />
-<h3>I'm a junior Front-end developer. Currently, I'm studying at Yandex.Practicum online school.</h3>
+<p>I'm a junior Front-end developer. Currently, I'm studying at Yandex.Practicum online school.</p>
 <a href="https://t.me/Panfilok" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://practicum-students.slack.com/U03A3HDQSAK"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 
 
