@@ -1,6 +1,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Artem Ponamarchuk" />
-<a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/Panfilok"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+
+
+<!--
 ```javascript
 const Artem = juniorFrontEnd
 
@@ -16,7 +19,6 @@ export default class Skills {
 }
 ```
 
-<!--
 **Panfil0k/Panfil0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
