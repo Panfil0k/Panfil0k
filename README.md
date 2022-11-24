@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Artem Ponamarchuk" />
-<a href="https://t.me/Panfilok">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ```javascript
 const Artem = juniorFrontEnd
