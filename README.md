@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Typing SVG" />
 
 ```javascript
 const Artem = juniorFrontEnd
