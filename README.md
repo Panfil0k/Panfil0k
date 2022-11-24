@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35D46D&width=435&lines=Hi%2C+I'm+Artem+Ponamarchuk" alt="Artem Ponamarchuk" />
 
 ```javascript
 const Artem = juniorFrontEnd
@@ -14,6 +14,7 @@ export default class Skills {
   }
 }
 ```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panfil0k)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Panfil0k/Panfil0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
