@@ -5,4 +5,4 @@
 <h3>Contacts</h3>
 <a href="https://t.me/Panfilok" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://practicum-students.slack.com/team/U03A3HDQSAK"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panfil0k&theme=vue-dark&show_icons=true)
